@@ -23,6 +23,8 @@ export function App() {
         <Notecard />
         <Notecard />
         <Notecard />
+        <Notecard />
+        <Notecard />
       </div>
     </div>
   )
